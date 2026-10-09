@@ -15,10 +15,6 @@
 <img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=FFFFFF" alt="Email contact" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=praiseraymondajeka&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="Profile views" />
-
 </div>
 
 ---
@@ -86,7 +82,7 @@ A platform designed to connect customers with service providers through service 
 
 **Built with:** Angular · Ionic · TypeScript · Firebase
 
-<a href="https://github.com/Raymondpraise/swiftservice">
+<a href="https://swiftservice-5fefb.web.app/">
 <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore SwiftService" />
 </a>
 
@@ -108,7 +104,7 @@ A digital platform designed to make church information, announcements, events, a
 
 **Built with:** HTML · CSS · JavaScript · Ionic · Capacitor · Firebase
 
-<a href="https://ssmulumbaanddavid.org">
+<a href="https://ss-mulumba-and-david-church.firebaseapp.com/">
 <img src="https://img.shields.io/badge/VISIT%20WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit church website" />
 </a>
 
@@ -120,17 +116,7 @@ A digital platform designed to make church information, announcements, events, a
 
 ## `04` — GITHUB STATISTICS
 
-<div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=praiseraymondajeka&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&border_color=333333&hide_border=false&rank_icon=github" alt="GitHub statistics" />
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praiseraymondajeka&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&border_color=333333&hide_border=false" alt="Most used languages" />
-
-<br/><br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=praiseraymondajeka&theme=dark&background=000000&ring=FFFFFF&fire=CCCCCC&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=999999&border=333333" alt="GitHub contribution streak" />
-
-</div>
 
 ---
 
