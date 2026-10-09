@@ -1,153 +1,161 @@
- <!-- ANIMATED HEADER -->
+ <!-- MONOCHROME ANIMATED HEADER -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Praise%20Raymond%20Ajeka&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descSize=15&descAlignY=55" width="100%" alt="Animated profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:000000&height=230&section=header&text=PRAISE%20RAYMOND%20AJEKA&fontSize=35&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20BUILDING%20WITH%20PURPOSE&descSize=12&descAlignY=58&descColor=dddddd" width="100%" alt="Monochrome animated header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=700&lines=Building+useful+digital+experiences;React+%7C+TypeScript+%7C+Next.js;Exploring+Python+and+backend+development;Turning+ideas+into+working+software" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=650&lines=Turning+ideas+into+digital+experiences.;Writing+code.+Solving+problems.;Learning+today.+Building+for+tomorrow." alt="Animated introduction" />
+
+<br/>
+
+<a href="https://github.com/praiseraymondajeka">
+<img src="https://img.shields.io/badge/GITHUB-PRAISERAYMONDAJEKA-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+<a href="mailto:praiseraymondajeka@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=FFFFFF" alt="Email contact" />
 </a>
 
-<p>
-  <a href="https://github.com/praiseraymondajeka">
-    <img src="https://img.shields.io/badge/GitHub-praiseraymondajeka-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="mailto:praiseraymondajeka@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=praiseraymondajeka&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=praiseraymondajeka&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👋 About Me
+## `01` — ABOUT ME
 
-Hi, I'm **Praise Raymond Ajeka** — a Computer Science graduate interested in building practical software that solves real problems.
+I'm **Praise Raymond Ajeka**, a Computer Science graduate passionate about building useful digital products and solving real-world problems through technology.
 
-I'm developing my skills across frontend and backend engineering, with a growing focus on modern web technologies, clean user interfaces, APIs, and application architecture.
+I enjoy exploring how technology, thoughtful design, and software engineering come together to create better user experiences.
 
-* 💻 Building and improving web and mobile applications.
-* ⚛️ Learning and working with React, TypeScript, and Next.js.
-* 🐍 Exploring Python and backend development.
-* 🔥 Experienced with projects using Firebase and related web technologies.
-* 🛠️ Interested in APIs, databases, software architecture, and developer tools.
-* 📚 Committed to learning, improving, and becoming a stronger software engineer.
+* 💻 Developing web and mobile applications.
+* ⚛️ Working with modern frontend technologies.
+* 🐍 Exploring backend development and APIs.
+* 🔥 Building applications with Firebase and cloud-powered services.
+* 🤝 Interested in collaboration, continuous learning, and practical problem-solving.
 
-**My philosophy:** Learn continuously, build intentionally, and improve with every project.
-
----
-
-## 🧰 Tech Stack
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,ionic&perline=8" alt="Frontend technology icons" />
-</p>
-
-### Backend & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,firebase,nodejs,mysql,postgres&perline=8" alt="Backend and database technology icons" />
-</p>
-
-### Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&perline=8" alt="Development tools icons" />
-</p>
-
-> I'm continuously expanding my toolkit. The technologies displayed here represent areas I've used, explored, or am actively learning—not necessarily expert-level proficiency in each one.
+> *Good software is more than code. It's a solution to a real problem.*
 
 ---
 
-## 🚀 Featured Projects
+## `02` — TECHNOLOGY STACK
 
-### 1. SwiftService — Service Marketplace
+<div align="center">
 
-A marketplace concept designed to connect customers with service providers and make it easier to discover, compare, and book services.
+**FRONTEND**
 
-**Key areas of development**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,ionic&theme=light&perline=8" alt="Frontend technologies" />
 
-* Service discovery, search, and filtering.
-* Provider profiles and ratings.
-* Role-based access and administration.
-* Booking and payment integration concepts.
-* Mobile-friendly application experience.
+<br/><br/>
 
-**Technologies:** Angular, Ionic, TypeScript, Firebase, and API integrations.
+**BACKEND & DATABASES**
+
+<img src="https://skillicons.dev/icons?i=python,firebase,nodejs,mysql,postgres&theme=light&perline=8" alt="Backend and database technologies" />
+
+<br/><br/>
+
+**TOOLS & WORKFLOW**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=light&perline=8" alt="Development tools" />
+
+</div>
+
+<sub>Technologies represent a mix of hands-on project experience and ongoing learning.</sub>
+
+---
+
+## `03` — SELECTED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### SwiftService
+
+**A service marketplace concept**
+
+A platform designed to connect customers with service providers through service discovery, provider profiles, ratings, and booking features.
+
+**Focus areas**
+
+* Service search and filtering
+* Provider profiles and ratings
+* Role-based access and administration
+* Payment integration concepts
+
+**Built with:** Angular · Ionic · TypeScript · Firebase
 
 <a href="https://github.com/Raymondpraise/swiftservice">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="View SwiftService repository" />
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore SwiftService" />
 </a>
 
-### 2. Ss. Mulumba and David Catholic Church — Website & Mobile App
+</td>
+<td width="50%" valign="top">
 
-A digital platform created to make church information and resources more accessible to parishioners.
+### Church Website & Mobile App
 
-**Key areas of development**
+**Ss. Mulumba and David Catholic Church**
 
-* Mass schedules and church announcements.
-* Events, news, and gallery content.
-* Church information and ministry resources.
-* Firebase-powered dynamic content.
-* Mobile application delivery and user experience.
+A digital platform designed to make church information, announcements, events, and resources accessible to parishioners.
 
-**Technologies:** HTML, CSS, JavaScript, Ionic, Capacitor, and Firebase.
+**Highlights**
+
+* Mass schedules and announcements
+* Events, news, and photo gallery
+* Dynamic Firebase-powered content
+* Mobile app experience
+
+**Built with:** HTML · CSS · JavaScript · Ionic · Capacitor · Firebase
 
 <a href="https://ssmulumbaanddavid.org">
-  <img src="https://img.shields.io/badge/Visit%20Church%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit church website" />
+<img src="https://img.shields.io/badge/VISIT%20WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit church website" />
 </a>
 
+</td>
+</tr>
+</table>
+
 ---
 
-## 📊 GitHub Analytics
+## `04` — GITHUB STATISTICS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=praiseraymondajeka&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=praiseraymondajeka&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&border_color=333333&hide_border=false&rank_icon=github" alt="GitHub statistics" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praiseraymondajeka&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praiseraymondajeka&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&border_color=333333&hide_border=false" alt="Most used languages" />
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=praiseraymondajeka&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=praiseraymondajeka&theme=dark&background=000000&ring=FFFFFF&fire=CCCCCC&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=999999&border=333333" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 🎯 What I'm Working Towards
-
-* Strengthening my React, TypeScript, and Next.js skills.
-* Becoming more confident with Python and backend systems.
-* Understanding databases, REST APIs, authentication, and application security.
-* Improving my Git workflow and collaborative development skills.
-* Building reliable, maintainable, and user-focused software.
-
----
-
-## 🤝 Let's Connect
-
-I'm open to learning opportunities, collaboration, and conversations about software development and technology.
-
-<p align="center">
-  <a href="https://github.com/praiseraymondajeka">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
-  </a>
-  <a href="mailto:praiseraymondajeka@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
-  </a>
-</p>
+## `05` — LET'S CONNECT
 
 <div align="center">
 
-### 💡 Build. Learn. Improve. Repeat.
+**Have an idea, an opportunity, or a project worth building? Let's connect.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer" width="100%" alt="Decorative footer" />
+<br/>
+
+<a href="https://github.com/praiseraymondajeka">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:praiseraymondajeka@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=FFFFFF" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br/><br/>
+
+*Create with purpose. Build with discipline. Keep improving.*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:000000&height=120&section=footer" width="100%" alt="Monochrome footer banner" />
